@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🔥 [SpringPortal #2 - Responding to Request](https://24naman.hashnode.dev/springportal-2-responding-to-request)
+ - 💯 [SpringPortal #1 - Get-ting started](https://24naman.hashnode.dev/springportal-1-get-ting-started)<!-- BLOGPOSTS:END -->
